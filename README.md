@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EKanadily
-- 👀 I’m interested in softwatr development
-- 🌱 I’m currently learning asp.net 5 and frontend web dev.
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning .net5 and frontend web dev.
 
 <!---
 EKanadily/EKanadily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

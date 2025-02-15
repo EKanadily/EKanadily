@@ -1,0 +1,58 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Code Plus Code</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-03-27T00:21:16+03:00</updated>
+  <author>
+    <name>Esam Kanadily</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Esam Kanadily </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Hello world from esam!</title>
+    <link href="http://localhost:4000/hello-world-from-esam" rel="alternate" type="text/html" title="Hello world from esam!" />
+    <published>2024-03-18T23:18:24+03:00</published>
+  
+    <updated>2024-03-27T00:18:59+03:00</updated>
+  
+    <id>http://localhost:4000/hello-world-from-esam</id>
+    <content src="http://localhost:4000/hello-world-from-esam" />
+    <author>
+      <name>Esam Kanadily</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      TAGS :  General
+
+This post marks a special moment for me – the exciting beginning of my own blog!  I hope that when I revisit  this entry in years to come, it will bring back this feeling of fresh beginnings and all the possibilities that lie ahead.
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
